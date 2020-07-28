@@ -1,6 +1,9 @@
 # auth-template
-tsParticles Auth Template for Websites
 
-![login](https://github.com/tsparticles/auth-template/__screenshots/login.png)
+tsParticles Simple Auth HTML Template for Websites
 
-![register](https://github.com/tsparticles/auth-template/__screenshots/register.png)
+## Login Page Preview
+![login](https://raw.githubusercontent.com/tsparticles/auth-template/master/__screenshots/login.png)
+
+## Register Page Preview
+![register](https://raw.githubusercontent.com/tsparticles/auth-template/master/__screenshots/register.png)
