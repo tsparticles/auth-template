@@ -3,10 +3,14 @@
 tsParticles Simple Auth HTML Template for Websites
 
 ## Login Page Preview
-![login](https://raw.githubusercontent.com/tsparticles/auth-template/master/__screenshots/login.png?raw=true)
+[![login](https://raw.githubusercontent.com/tsparticles/auth-template/master/__screenshots/login.png?raw=true)](https://tsparticles.github.io/auth-template/login.html)
+
+See working preview [here](https://tsparticles.github.io/auth-template/login.html)
 
 ## Register Page Preview
-![register](https://raw.githubusercontent.com/tsparticles/auth-template/master/__screenshots/register.png?raw=true)
+[![register](https://raw.githubusercontent.com/tsparticles/auth-template/master/__screenshots/register.png?raw=true)](https://tsparticles.github.io/auth-template/register.html)
+
+See working preview [here](https://tsparticles.github.io/auth-template/register.html)
 
 ## What is tsParticles
 
