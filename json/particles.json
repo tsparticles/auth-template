@@ -4,15 +4,6 @@
     "number": {
       "value": 50
     },
-    "color": {
-      "value": [
-        "#5bc0eb",
-        "#fde74c",
-        "#9bc53d",
-        "#e55934",
-        "#fa7921"
-      ]
-    },
     "shape": {
       "type": "circle"
     },
@@ -41,12 +32,59 @@
   },
   "detectRetina": true,
   "background": {
-    "color": "#fff",
     "image": "",
     "position": "50% 50%",
     "repeat": "no-repeat",
     "size": "cover"
   },
+  "themes": [
+    {
+      "name": "light",
+      "default": {
+        "value": true,
+        "mode": "light"
+      },
+      "options": {
+        "background": {
+          "color": "#fff"
+        },
+        "particles": {
+          "color": {
+            "value": [
+              "#5bc0eb",
+              "#fde74c",
+              "#9bc53d",
+              "#e55934",
+              "#fa7921"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "name": "dark",
+      "default": {
+        "value": true,
+        "mode": "dark"
+      },
+      "options": {
+        "background": {
+          "color": "#000"
+        },
+        "particles": {
+          "color": {
+            "value": [
+              "#004f74",
+              "#5f5800",
+              "#245100",
+              "#7d0000",
+              "#810c00"
+            ]
+          }
+        }
+      }
+    }
+  ],
   "emitters": {
     "direction": "top",
     "position": {
