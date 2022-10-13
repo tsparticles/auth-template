@@ -71,3 +71,24 @@ header {
     opacity: 0.8;
 }
 
+.box input[type="Password1"], .box button[type="Password1"], a.button {
+    font-family: sans-serif;
+    background: #03a9f4;
+    font-size: 11px;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    font-weight: 600;
+    padding: 10px 20px;
+    letter-spacing: 2px;
+    outline: none;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin: 2px 10px 2px 0;
+    display: inline-block;
+}
+
+.box input[type="Password1"]:hover, .box button[type="Password1"]:hover, a.button:hover {
+    opacity: 0.8;
+}
